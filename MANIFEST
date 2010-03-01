@@ -1,0 +1,8 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+test.pl
+lib/WWW/Pixelletter.pm
+t/WWW-Pixelletter.t
+samples/send_by_pixelletter.pl
